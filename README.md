@@ -20,7 +20,7 @@
 - 개발 환경 : ubuntu 22.04
 - 개발 언어 : Python, HTML5, CSS3, Javascript
 - 사용 툴 : Elasticsearch, Kibana 
-- 사용 장비 : XBC-DN32U(LS 산전), ipTIME
+- 사용 장비 : XBC-DN32U(LS 산전), ipTIME_N104E_Plus, RaspberryPi4
 
 <br>
 
