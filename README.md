@@ -19,7 +19,7 @@
 - 프로젝트명 : 산업 분야에서 사용하는 PLC 통신 프로토콜 분석 및 자동 탐지 시스템
 - 개발 환경 : ubuntu 22.04
 - 개발 언어 : Python, HTML5, CSS3, Javascript
-- 사용 툴 : Elasticsearch, Kibana 
+- 사용 툴 : Elasticsearch, Kibana , XG 5000 (LS산전사의 PLC 소프트웨어)
 - 사용 장비 : XBC-DN32U(LS 산전), ipTIME_N104E_Plus, RaspberryPi4
 
 <br>
@@ -36,6 +36,8 @@ For building and running this project you need :
 - elasticsearch 7.16.2
 - kibana 7.16.2
 - python 3.10.x
+  - scapy 2.5.0
+  - pymodbus 3.3.1
 
 <br>
 
