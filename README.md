@@ -57,7 +57,7 @@ $ cd PLC_Modbus_Monitoring_System
 2. Hash_Client.py , Modbus_Hash_Client.py 실행
 3. Capture_Packet.py 실행
 4. Modbus_Hash_Client.py 코드를 통해 패킷 전송
-- 명령어 : 
+- 명령어 : q(읽기,read), w(위조), e(잘못된 요청) , r(변조) 
 5. Capture_Packet.py 를 통해 캡쳐된 패킷을 Elasticsearch로 인덱싱 후 Kibana로 시각화
 ```
 
